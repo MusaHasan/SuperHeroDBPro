@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperHeroDBPro.Server", "SuperHeroDBPro\Server\SuperHeroDBPro.Server.csproj", "{28C29466-8B82-470A-B5D2-AF85EFDC8320}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuperHeroDBPro.Server", "SuperHeroDBPro\Server\SuperHeroDBPro.Server.csproj", "{28C29466-8B82-470A-B5D2-AF85EFDC8320}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperHeroDBPro.Client", "SuperHeroDBPro\Client\SuperHeroDBPro.Client.csproj", "{A83745E3-5C5F-4C5D-AA4D-F3AE1CCE1E84}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuperHeroDBPro.Client", "SuperHeroDBPro\Client\SuperHeroDBPro.Client.csproj", "{A83745E3-5C5F-4C5D-AA4D-F3AE1CCE1E84}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperHeroDBPro.Shared", "SuperHeroDBPro\Shared\SuperHeroDBPro.Shared.csproj", "{F193BDCD-E52D-4CFF-AAB9-0EB09183992B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuperHeroDBPro.Shared", "SuperHeroDBPro\Shared\SuperHeroDBPro.Shared.csproj", "{F193BDCD-E52D-4CFF-AAB9-0EB09183992B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

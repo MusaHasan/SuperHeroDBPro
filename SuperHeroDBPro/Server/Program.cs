@@ -1,3 +1,4 @@
+global using SuperHeroDBPro.Shared;
 using Microsoft.AspNetCore.ResponseCompression;
 
 var builder = WebApplication.CreateBuilder(args);
